@@ -6,6 +6,7 @@ target 'Peller_Task' do
   use_frameworks!
 
   pod 'STWebImage'
+
   # Pods for Peller_Task
 
 end
