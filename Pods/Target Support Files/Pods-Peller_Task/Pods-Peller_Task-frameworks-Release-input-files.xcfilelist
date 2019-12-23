@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Peller_Task/Pods-Peller_Task-frameworks.sh
+${BUILT_PRODUCTS_DIR}/STDownloader/STDownloader.framework
+${BUILT_PRODUCTS_DIR}/STWebImage/STWebImage.framework
+${BUILT_PRODUCTS_DIR}/YYCache/YYCache.framework
+${BUILT_PRODUCTS_DIR}/YYImage/YYImage.framework
+${BUILT_PRODUCTS_DIR}/YYWebImage/YYWebImage.framework
